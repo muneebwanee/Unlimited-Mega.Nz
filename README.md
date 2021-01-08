@@ -17,3 +17,5 @@ https://raw.githubusercontent.com/muneebwanee/Unlimited-Mega.Nz/main/Script
 Now just make sure that it’s enabled and you’re all set
 As long as there’s a remaining space in your cloud, you can import any link bypassing the 50GB limit.
 This script work only from imported links.*
+
+### Hence Done
