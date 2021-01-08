@@ -11,7 +11,7 @@ This will open up the Script Editor. Delete all of the content that is already p
 #### 4. Now copy the script from the link below
 
 #### Mega.nz Script:
-https://github.com/muneebwanee/Unlimited-Mega.Nz/Script
+https://raw.githubusercontent.com/muneebwanee/Unlimited-Mega.Nz/main/Script
 
 *And paste it into the Tampermonkey userscript section. Then click file & save
 Now just make sure that it’s enabled and you’re all set
